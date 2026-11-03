@@ -21,8 +21,8 @@ SwiftUI, Codable, AppStorage.
 ## Запуск
 
 ```bash
-git clone https://github.com/dpogonia/Cookcademy-Kodeco.git
-cd Cookcademy-Kodeco
+git clone https://github.com/dpogonia/Cookcademy-KODECO.git
+cd Cookcademy-KODECO
 open Cookcademy.xcodeproj
 ```
 
